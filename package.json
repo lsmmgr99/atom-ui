@@ -1,5 +1,5 @@
 {
-  "name": "numsai-ui",
+  "name": "berlin777-ui",
   "theme": "syntax",
   "version": "0.2.0",
   "description": "ส(ล็)อต berlin777",
@@ -7,7 +7,7 @@
         "s(lot)berlin777",
         "ส(ล็)อต",
         "berlin(777)",
-        "s(lot)berlin777",
+        "s(lot)berlin777"
   ],
   "repository": "https://github.com/lsmmgr99/atom-ui.git",
   "license": "MIT",
