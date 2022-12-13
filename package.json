@@ -1,13 +1,13 @@
 {
   "name": "berlin777-ui",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "ส(ล็)อต berlin777",
   "keywords": [
-        "s(lot)berlin777",
-        "ส(ล็)อต",
-        "berlin(777)",
-        "s(lot)berlin777"
+    "s(lot)berlin777",
+    "ส(ล็)อต",
+    "berlin(777)",
+    "s(lot)berlin777"
   ],
   "repository": "https://github.com/lsmmgr99/atom-ui.git",
   "license": "MIT",
